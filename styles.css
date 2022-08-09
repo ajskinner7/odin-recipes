@@ -1,3 +1,12 @@
 div {
     text-align: center;
 }
+
+h1 {
+    color: #004400;
+}
+
+h2, h3 {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
